@@ -1,1 +1,1 @@
-# CG
+# CG Lab Programs
